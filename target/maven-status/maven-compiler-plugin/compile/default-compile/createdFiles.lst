@@ -1,0 +1,11 @@
+co\edu\sena\sominprojectweb\logica\Controladora.class
+co\edu\sena\sominprojectweb\logica\Producto.class
+co\edu\sena\sominprojectweb\persistencia\exceptions\IllegalOrphanException.class
+co\edu\sena\sominprojectweb\persistencia\ProductoJpaController.class
+co\edu\sena\sominprojectweb\JakartaRestConfiguration.class
+co\edu\sena\sominprojectweb\persistencia\ControladoraPersistencia.class
+co\edu\sena\sominprojectweb\logica\Producto_.class
+co\edu\sena\sominprojectweb\persistencia\exceptions\PreexistingEntityException.class
+co\edu\sena\sominprojectweb\persistencia\exceptions\NonexistentEntityException.class
+co\edu\sena\sominprojectweb\resources\JakartaEE8Resource.class
+co\edu\sena\sominprojectweb\servlets\SvProducto.class
